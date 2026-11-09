@@ -24,6 +24,10 @@ TeslaLogger is a self hosted data logger for your Tesla Model S/3/X/Y/Cybertruck
 - You can also run it for free in a Docker / Synology:
 [Docker Setup](docker_setup.md)
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/TeslaLogger/)
+
 ## Configuration
 
 Connect your Raspberry PI with your router with a network cable and turn in on.
